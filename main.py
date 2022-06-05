@@ -20,7 +20,6 @@ if difficulty == "Easy":
     lives = 5
 
 
-print(random_number) 
 print(lives)
 
 while lives != 0:
